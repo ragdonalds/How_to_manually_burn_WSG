@@ -5,7 +5,7 @@
 
 You can see the burn transactions on BSCscan here:<br> https://bscscan.com/token/0xa58950f05fea2277d2608748412bf9f802ea4901?a=0x000000000000000000000000000000000000dead
 
-<h3>Ok, so this is how you it. Super easy!</h3>
+<h3>Ok, so this is how you do it. Super easy!</h3>
 
 1. Open up Metamask. Press WSG and you will see this window:<br>
 ![image](https://user-images.githubusercontent.com/97738447/172833062-004ba930-8403-4b38-90fc-f208faae8381.png)
